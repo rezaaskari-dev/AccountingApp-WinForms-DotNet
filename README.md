@@ -31,15 +31,15 @@ The application is designed to help users manage their personal financial activi
 
 ### Add / Edit Customer
 
-![Add or Edit Customer](images/04-add-edit-customer.png)
+![Add or Edit Customer](images/04-income.png)
 
 ### Income / Receipt
 
-![Income](images/05-income.png)
+![Income](images/05-expenses.png)
 
 ### Expenses / Payments
 
-![Expenses](images/06-expenses.png)
+![Expenses](images/06-transactionentry.png)
 
 ### Financial Reports
 
