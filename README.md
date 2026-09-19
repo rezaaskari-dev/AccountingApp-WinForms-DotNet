@@ -29,11 +29,11 @@ The application is designed to help users manage their personal financial activi
 
 ![Customer Management](images/03-customers.png)
 
-### Add / Edit Customer
+### Receipt
 
 ![Add or Edit Customer](images/04-income.png)
 
-### Income / Receipt
+### Income
 
 ![Income](images/05-expenses.png)
 
