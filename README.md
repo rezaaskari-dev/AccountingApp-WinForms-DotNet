@@ -41,9 +41,6 @@ The application is designed to help users manage their personal financial activi
 
 ![Expenses](images/06-transactionentry.png)
 
-### Financial Reports
-
-![Financial Reports](images/07-reports.png)
 
 ## About the Project
 
