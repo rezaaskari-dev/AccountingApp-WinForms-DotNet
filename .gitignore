@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# NuGet
+packages/
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper*
+
+# Environment / secrets
+.env
+.env.*
+secrets.json
+secrets.*.json
